@@ -1,2 +1,8 @@
 # Introduction
 
+$\gamma$
+
+$$\gamma$$
+
+
+
